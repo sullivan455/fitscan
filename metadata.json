@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of FitScan AI",
+  "description": "Escaneie alimentos, obtenha análises nutricionais via IA, receba receitas personalizadas e converse com seu coach virtual.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
